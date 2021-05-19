@@ -6,4 +6,5 @@ public class Main  extends Canine {
         System.out.println(new Canine().getAverageWeight());
         System.out.println(new Main().getAverageWeight());
     }}
-
+//50
+//70
